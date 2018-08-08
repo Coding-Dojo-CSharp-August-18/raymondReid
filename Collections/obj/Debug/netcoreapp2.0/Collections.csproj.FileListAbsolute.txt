@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\obj\Debug\netcoreapp2.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\obj\Debug\netcoreapp2.0\Collections.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\obj\Debug\netcoreapp2.0\Collections.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\bin\Debug\netcoreapp2.0\Collections.deps.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\bin\Debug\netcoreapp2.0\Collections.runtimeconfig.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\bin\Debug\netcoreapp2.0\Collections.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\bin\Debug\netcoreapp2.0\Collections.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\bin\Debug\netcoreapp2.0\Collections.pdb
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\obj\Debug\netcoreapp2.0\Collections.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\Collections\obj\Debug\netcoreapp2.0\Collections.pdb
