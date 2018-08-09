@@ -32,7 +32,7 @@ namespace Basic13
         {
             Console.WriteLine("Total of adding every number from 1 to 255:");
             var x = 0;
-            for (int i = 0; i <= 25; i++)
+            for (int i = 0; i <= 255; i++)
             {
                 x += i;
                 Console.WriteLine(i + " Sum: " + x);
