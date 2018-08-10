@@ -57,17 +57,17 @@ namespace Puzzles
         {
             
             Random rand = new Random();
-            for(string i = 0; i < 5; i++)
+            for(int i = 0; i < 5; i++)
             {
-                swap(a, i, i + rand.Next(len - i));
+                swap(a, i, i + rand.Next(i, a.Lenght));
 
             }
         }
-        public static void swap(string[] name, string a,string b)
+        public static void swap(string[] name, int posa, int posb)
         {
-            string temp = name[a];
-            name[a] = name[b];
-            name[b] = temp;
+            string temp = name[posa];
+            name[posa] = name[posb];
+            name[posb] = temp;
         }
     }
 }

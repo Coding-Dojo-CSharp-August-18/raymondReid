@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\obj\Debug\netcoreapp2.0\GamePiece.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\obj\Debug\netcoreapp2.0\GamePiece.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\obj\Debug\netcoreapp2.0\GamePiece.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\bin\Debug\netcoreapp2.0\GamePiece.deps.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\bin\Debug\netcoreapp2.0\GamePiece.runtimeconfig.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\bin\Debug\netcoreapp2.0\GamePiece.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\bin\Debug\netcoreapp2.0\GamePiece.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\bin\Debug\netcoreapp2.0\GamePiece.pdb
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\obj\Debug\netcoreapp2.0\GamePiece.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\schoolwork\GamePiece\obj\Debug\netcoreapp2.0\GamePiece.pdb
